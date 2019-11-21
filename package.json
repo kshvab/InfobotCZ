@@ -1,0 +1,22 @@
+{
+  "name": "botstudy",
+  "version": "2.0.1",
+  "description": "",
+  "main": "Token.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "cron": "^1.7.1",
+    "mongoose": "^5.6.8",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
